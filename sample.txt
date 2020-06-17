@@ -1,2 +1,1 @@
-Test
-new test sample
+new test
